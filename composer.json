@@ -17,5 +17,8 @@
             "email": "air-dev@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
 }
