@@ -1,7 +1,6 @@
 {
     "name": "air-petr/php-turnstile",
     "description": "Funny PHP implementation of a Monostate pattern",
-    "type": "composer-plugin",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
